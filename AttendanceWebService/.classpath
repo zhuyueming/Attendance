@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Document/Workspace/ExternalJar/WebAppLibraries"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Document/Workspace/ExternalJar/WebAppLibraries/servlet-api.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
